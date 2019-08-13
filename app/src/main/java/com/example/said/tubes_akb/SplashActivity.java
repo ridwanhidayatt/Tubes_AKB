@@ -1,10 +1,9 @@
-package com.example.renaldi.tubes_akb;
-/*nama  : Renaldi Ferdiansyah
-  nim   : 10116032
+package com.example.said.tubes_akb;
+/*nama  : Said Dinar Fadilah
+  nim   : 10116026
   kelas : IF-1/AKB-1
   tanggal pengerjaan : 12-08-2019
  */
-import android.content.Intent;
 import android.content.Intent;
 import android.os.Bundle;
 import android.os.Handler;
