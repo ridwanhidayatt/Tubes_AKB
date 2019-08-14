@@ -1,0 +1,183 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\RidwanHidayat\Documents\TUBES_AKB\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\RidwanHidayat\Documents\TUBES_AKB\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\RidwanHidayat\Documents\TUBES_AKB\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\RidwanHidayat\Documents\TUBES_AKB\app\src\main\AndroidManifest.xml:2:1-35:12
+MERGED from [io.realm:realm-android-library:5.11.0] C:\Users\RidwanHidayat\.gradle\caches\transforms-2\files-2.1\47cdc62db533b48b480b08164cd8fa61\AndroidManifest.xml:2:1-10:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\RidwanHidayat\.gradle\caches\transforms-2\files-2.1\80cd7e1dfa57ca28fe9ee2dc67c527af\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\RidwanHidayat\.gradle\caches\transforms-2\files-2.1\e50479a9a5b3864bf6a4da688821cf4a\AndroidManifest.xml:2:1-11:12
+MERGED from [com.mikhaellopez:circularimageview:3.2.0] C:\Users\RidwanHidayat\.gradle\caches\transforms-2\files-2.1\86340192d09e4b09d3388be2dfa587ec\AndroidManifest.xml:2:1-11:12
+MERGED from [com.getkeepsafe.relinker:relinker:1.3.0] C:\Users\RidwanHidayat\.gradle\caches\transforms-2\files-2.1\d28498c1935e3f578ffec58e77dccd3c\AndroidManifest.xml:2:1-7:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\RidwanHidayat\.gradle\caches\transforms-2\files-2.1\7982027ad005b10ebe5720a438486d51\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\RidwanHidayat\.gradle\caches\transforms-2\files-2.1\0b0566dab2aa2357281acb5da2f9d91d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\RidwanHidayat\.gradle\caches\transforms-2\files-2.1\3ee762932cfbcd59b629bf6844e7d314\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\RidwanHidayat\.gradle\caches\transforms-2\files-2.1\d5379979e263ee0221a5e1f6e1e20c16\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\RidwanHidayat\.gradle\caches\transforms-2\files-2.1\6f51c1fd997d934765ad6f893e978f86\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\RidwanHidayat\.gradle\caches\transforms-2\files-2.1\0525b4fbd73a2c3f9fd30ec6a94a9515\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\RidwanHidayat\.gradle\caches\transforms-2\files-2.1\80ecec33b1272e6f9b4232a27206fa3f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\RidwanHidayat\.gradle\caches\transforms-2\files-2.1\48c402b65d9357cd7ea4fa5951d0a248\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\RidwanHidayat\.gradle\caches\transforms-2\files-2.1\826c2a8dec7a2b9978a9f7503c8d7f6d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\RidwanHidayat\.gradle\caches\transforms-2\files-2.1\a0e3ce1c798a9b29242043795791fed5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\RidwanHidayat\.gradle\caches\transforms-2\files-2.1\0a3c2cb30ecd9f61932a23c02e5d6a00\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\RidwanHidayat\.gradle\caches\transforms-2\files-2.1\3adc3b80bc57ac22544fb3ce281dccf8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\RidwanHidayat\.gradle\caches\transforms-2\files-2.1\eb5bff4b8879fea2130c7c3f73282e4f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\RidwanHidayat\.gradle\caches\transforms-2\files-2.1\4f66efc574b8627d05f05e996b778472\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\RidwanHidayat\.gradle\caches\transforms-2\files-2.1\d2271dec9537336d32fa4f4f8bb1f55a\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\RidwanHidayat\.gradle\caches\transforms-2\files-2.1\47e7df945e6574127eb13ccb18c7a26f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\RidwanHidayat\.gradle\caches\transforms-2\files-2.1\e9e926eb1f91af052bb3c2d9dda18fec\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\RidwanHidayat\.gradle\caches\transforms-2\files-2.1\cd0461efff436f761021cf6f1e458b85\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\RidwanHidayat\.gradle\caches\transforms-2\files-2.1\0ffc9464d0114a7d2b206c6c1131296e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\RidwanHidayat\.gradle\caches\transforms-2\files-2.1\2957a34a9ab3236d012e9f10a8e99f90\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\RidwanHidayat\.gradle\caches\transforms-2\files-2.1\af5f4b9e00f2f513bea2156194119696\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\RidwanHidayat\.gradle\caches\transforms-2\files-2.1\36c142a7e3367057356f19bec00a0018\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\RidwanHidayat\.gradle\caches\transforms-2\files-2.1\a53394d9f4575194bac9ca2d374bb708\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\RidwanHidayat\.gradle\caches\transforms-2\files-2.1\d1ff204b14a12b346ee0303395711e79\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\RidwanHidayat\.gradle\caches\transforms-2\files-2.1\ab77b556b2d53a89ee3864c2a486eb97\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\RidwanHidayat\Documents\TUBES_AKB\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\RidwanHidayat\Documents\TUBES_AKB\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\RidwanHidayat\Documents\TUBES_AKB\app\src\main\AndroidManifest.xml:2:1-35:12
+	package
+		ADDED from C:\Users\RidwanHidayat\Documents\TUBES_AKB\app\src\main\AndroidManifest.xml:3:5-43
+		INJECTED from C:\Users\RidwanHidayat\Documents\TUBES_AKB\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\RidwanHidayat\Documents\TUBES_AKB\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\RidwanHidayat\Documents\TUBES_AKB\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\RidwanHidayat\Documents\TUBES_AKB\app\src\main\AndroidManifest.xml:2:1-35:12
+		INJECTED from C:\Users\RidwanHidayat\Documents\TUBES_AKB\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\RidwanHidayat\Documents\TUBES_AKB\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\RidwanHidayat\Documents\TUBES_AKB\app\src\main\AndroidManifest.xml:2:1-35:12
+		INJECTED from C:\Users\RidwanHidayat\Documents\TUBES_AKB\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\RidwanHidayat\Documents\TUBES_AKB\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\RidwanHidayat\Documents\TUBES_AKB\app\src\main\AndroidManifest.xml:5:5-33:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\RidwanHidayat\.gradle\caches\transforms-2\files-2.1\e50479a9a5b3864bf6a4da688821cf4a\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\RidwanHidayat\.gradle\caches\transforms-2\files-2.1\e50479a9a5b3864bf6a4da688821cf4a\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\RidwanHidayat\.gradle\caches\transforms-2\files-2.1\4f66efc574b8627d05f05e996b778472\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\RidwanHidayat\.gradle\caches\transforms-2\files-2.1\4f66efc574b8627d05f05e996b778472\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\RidwanHidayat\.gradle\caches\transforms-2\files-2.1\d2271dec9537336d32fa4f4f8bb1f55a\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\RidwanHidayat\.gradle\caches\transforms-2\files-2.1\d2271dec9537336d32fa4f4f8bb1f55a\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\RidwanHidayat\.gradle\caches\transforms-2\files-2.1\4f66efc574b8627d05f05e996b778472\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\RidwanHidayat\Documents\TUBES_AKB\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\RidwanHidayat\Documents\TUBES_AKB\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\RidwanHidayat\Documents\TUBES_AKB\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\RidwanHidayat\Documents\TUBES_AKB\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\RidwanHidayat\Documents\TUBES_AKB\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\RidwanHidayat\Documents\TUBES_AKB\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.ridwan.tubes_akb.MainActivity
+ADDED from C:\Users\RidwanHidayat\Documents\TUBES_AKB\app\src\main\AndroidManifest.xml:12:9-20:20
+	android:theme
+		ADDED from C:\Users\RidwanHidayat\Documents\TUBES_AKB\app\src\main\AndroidManifest.xml:14:13-63
+	android:name
+		ADDED from C:\Users\RidwanHidayat\Documents\TUBES_AKB\app\src\main\AndroidManifest.xml:13:13-69
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\RidwanHidayat\Documents\TUBES_AKB\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\RidwanHidayat\Documents\TUBES_AKB\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from C:\Users\RidwanHidayat\Documents\TUBES_AKB\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\RidwanHidayat\Documents\TUBES_AKB\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from C:\Users\RidwanHidayat\Documents\TUBES_AKB\app\src\main\AndroidManifest.xml:18:27-74
+activity#com.example.ridwan.tubes_akb.SplashActivity
+ADDED from C:\Users\RidwanHidayat\Documents\TUBES_AKB\app\src\main\AndroidManifest.xml:21:9-29:20
+	android:theme
+		ADDED from C:\Users\RidwanHidayat\Documents\TUBES_AKB\app\src\main\AndroidManifest.xml:23:13-47
+	android:name
+		ADDED from C:\Users\RidwanHidayat\Documents\TUBES_AKB\app\src\main\AndroidManifest.xml:22:13-71
+activity#com.example.ridwan.tubes_akb.Profil
+ADDED from C:\Users\RidwanHidayat\Documents\TUBES_AKB\app\src\main\AndroidManifest.xml:30:9-72
+	android:name
+		ADDED from C:\Users\RidwanHidayat\Documents\TUBES_AKB\app\src\main\AndroidManifest.xml:30:19-69
+activity#com.example.ridwan.tubes_akb.tambahteman
+ADDED from C:\Users\RidwanHidayat\Documents\TUBES_AKB\app\src\main\AndroidManifest.xml:31:9-77
+	android:name
+		ADDED from C:\Users\RidwanHidayat\Documents\TUBES_AKB\app\src\main\AndroidManifest.xml:31:19-74
+activity#com.example.ridwan.tubes_akb.LoadActivity
+ADDED from C:\Users\RidwanHidayat\Documents\TUBES_AKB\app\src\main\AndroidManifest.xml:32:9-87
+	android:name
+		ADDED from C:\Users\RidwanHidayat\Documents\TUBES_AKB\app\src\main\AndroidManifest.xml:32:19-75
+uses-sdk
+INJECTED from C:\Users\RidwanHidayat\Documents\TUBES_AKB\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\RidwanHidayat\Documents\TUBES_AKB\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\RidwanHidayat\Documents\TUBES_AKB\app\src\main\AndroidManifest.xml
+MERGED from [io.realm:realm-android-library:5.11.0] C:\Users\RidwanHidayat\.gradle\caches\transforms-2\files-2.1\47cdc62db533b48b480b08164cd8fa61\AndroidManifest.xml:6:5-8:41
+MERGED from [io.realm:realm-android-library:5.11.0] C:\Users\RidwanHidayat\.gradle\caches\transforms-2\files-2.1\47cdc62db533b48b480b08164cd8fa61\AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\RidwanHidayat\.gradle\caches\transforms-2\files-2.1\80cd7e1dfa57ca28fe9ee2dc67c527af\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\RidwanHidayat\.gradle\caches\transforms-2\files-2.1\80cd7e1dfa57ca28fe9ee2dc67c527af\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\RidwanHidayat\.gradle\caches\transforms-2\files-2.1\e50479a9a5b3864bf6a4da688821cf4a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\RidwanHidayat\.gradle\caches\transforms-2\files-2.1\e50479a9a5b3864bf6a4da688821cf4a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.mikhaellopez:circularimageview:3.2.0] C:\Users\RidwanHidayat\.gradle\caches\transforms-2\files-2.1\86340192d09e4b09d3388be2dfa587ec\AndroidManifest.xml:7:5-9:41
+MERGED from [com.mikhaellopez:circularimageview:3.2.0] C:\Users\RidwanHidayat\.gradle\caches\transforms-2\files-2.1\86340192d09e4b09d3388be2dfa587ec\AndroidManifest.xml:7:5-9:41
+MERGED from [com.getkeepsafe.relinker:relinker:1.3.0] C:\Users\RidwanHidayat\.gradle\caches\transforms-2\files-2.1\d28498c1935e3f578ffec58e77dccd3c\AndroidManifest.xml:5:5-43
+MERGED from [com.getkeepsafe.relinker:relinker:1.3.0] C:\Users\RidwanHidayat\.gradle\caches\transforms-2\files-2.1\d28498c1935e3f578ffec58e77dccd3c\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\RidwanHidayat\.gradle\caches\transforms-2\files-2.1\7982027ad005b10ebe5720a438486d51\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\RidwanHidayat\.gradle\caches\transforms-2\files-2.1\7982027ad005b10ebe5720a438486d51\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\RidwanHidayat\.gradle\caches\transforms-2\files-2.1\0b0566dab2aa2357281acb5da2f9d91d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\RidwanHidayat\.gradle\caches\transforms-2\files-2.1\0b0566dab2aa2357281acb5da2f9d91d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\RidwanHidayat\.gradle\caches\transforms-2\files-2.1\3ee762932cfbcd59b629bf6844e7d314\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\RidwanHidayat\.gradle\caches\transforms-2\files-2.1\3ee762932cfbcd59b629bf6844e7d314\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\RidwanHidayat\.gradle\caches\transforms-2\files-2.1\d5379979e263ee0221a5e1f6e1e20c16\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\RidwanHidayat\.gradle\caches\transforms-2\files-2.1\d5379979e263ee0221a5e1f6e1e20c16\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\RidwanHidayat\.gradle\caches\transforms-2\files-2.1\6f51c1fd997d934765ad6f893e978f86\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\RidwanHidayat\.gradle\caches\transforms-2\files-2.1\6f51c1fd997d934765ad6f893e978f86\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\RidwanHidayat\.gradle\caches\transforms-2\files-2.1\0525b4fbd73a2c3f9fd30ec6a94a9515\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\RidwanHidayat\.gradle\caches\transforms-2\files-2.1\0525b4fbd73a2c3f9fd30ec6a94a9515\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\RidwanHidayat\.gradle\caches\transforms-2\files-2.1\80ecec33b1272e6f9b4232a27206fa3f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\RidwanHidayat\.gradle\caches\transforms-2\files-2.1\80ecec33b1272e6f9b4232a27206fa3f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\RidwanHidayat\.gradle\caches\transforms-2\files-2.1\48c402b65d9357cd7ea4fa5951d0a248\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\RidwanHidayat\.gradle\caches\transforms-2\files-2.1\48c402b65d9357cd7ea4fa5951d0a248\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\RidwanHidayat\.gradle\caches\transforms-2\files-2.1\826c2a8dec7a2b9978a9f7503c8d7f6d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\RidwanHidayat\.gradle\caches\transforms-2\files-2.1\826c2a8dec7a2b9978a9f7503c8d7f6d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\RidwanHidayat\.gradle\caches\transforms-2\files-2.1\a0e3ce1c798a9b29242043795791fed5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\RidwanHidayat\.gradle\caches\transforms-2\files-2.1\a0e3ce1c798a9b29242043795791fed5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\RidwanHidayat\.gradle\caches\transforms-2\files-2.1\0a3c2cb30ecd9f61932a23c02e5d6a00\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\RidwanHidayat\.gradle\caches\transforms-2\files-2.1\0a3c2cb30ecd9f61932a23c02e5d6a00\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\RidwanHidayat\.gradle\caches\transforms-2\files-2.1\3adc3b80bc57ac22544fb3ce281dccf8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\RidwanHidayat\.gradle\caches\transforms-2\files-2.1\3adc3b80bc57ac22544fb3ce281dccf8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\RidwanHidayat\.gradle\caches\transforms-2\files-2.1\eb5bff4b8879fea2130c7c3f73282e4f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\RidwanHidayat\.gradle\caches\transforms-2\files-2.1\eb5bff4b8879fea2130c7c3f73282e4f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\RidwanHidayat\.gradle\caches\transforms-2\files-2.1\4f66efc574b8627d05f05e996b778472\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\RidwanHidayat\.gradle\caches\transforms-2\files-2.1\4f66efc574b8627d05f05e996b778472\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\RidwanHidayat\.gradle\caches\transforms-2\files-2.1\d2271dec9537336d32fa4f4f8bb1f55a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\RidwanHidayat\.gradle\caches\transforms-2\files-2.1\d2271dec9537336d32fa4f4f8bb1f55a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\RidwanHidayat\.gradle\caches\transforms-2\files-2.1\47e7df945e6574127eb13ccb18c7a26f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\RidwanHidayat\.gradle\caches\transforms-2\files-2.1\47e7df945e6574127eb13ccb18c7a26f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\RidwanHidayat\.gradle\caches\transforms-2\files-2.1\e9e926eb1f91af052bb3c2d9dda18fec\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\RidwanHidayat\.gradle\caches\transforms-2\files-2.1\e9e926eb1f91af052bb3c2d9dda18fec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\RidwanHidayat\.gradle\caches\transforms-2\files-2.1\cd0461efff436f761021cf6f1e458b85\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\RidwanHidayat\.gradle\caches\transforms-2\files-2.1\cd0461efff436f761021cf6f1e458b85\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\RidwanHidayat\.gradle\caches\transforms-2\files-2.1\0ffc9464d0114a7d2b206c6c1131296e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\RidwanHidayat\.gradle\caches\transforms-2\files-2.1\0ffc9464d0114a7d2b206c6c1131296e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\RidwanHidayat\.gradle\caches\transforms-2\files-2.1\2957a34a9ab3236d012e9f10a8e99f90\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\RidwanHidayat\.gradle\caches\transforms-2\files-2.1\2957a34a9ab3236d012e9f10a8e99f90\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\RidwanHidayat\.gradle\caches\transforms-2\files-2.1\af5f4b9e00f2f513bea2156194119696\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\RidwanHidayat\.gradle\caches\transforms-2\files-2.1\af5f4b9e00f2f513bea2156194119696\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\RidwanHidayat\.gradle\caches\transforms-2\files-2.1\36c142a7e3367057356f19bec00a0018\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\RidwanHidayat\.gradle\caches\transforms-2\files-2.1\36c142a7e3367057356f19bec00a0018\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\RidwanHidayat\.gradle\caches\transforms-2\files-2.1\a53394d9f4575194bac9ca2d374bb708\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\RidwanHidayat\.gradle\caches\transforms-2\files-2.1\a53394d9f4575194bac9ca2d374bb708\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\RidwanHidayat\.gradle\caches\transforms-2\files-2.1\d1ff204b14a12b346ee0303395711e79\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\RidwanHidayat\.gradle\caches\transforms-2\files-2.1\d1ff204b14a12b346ee0303395711e79\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\RidwanHidayat\.gradle\caches\transforms-2\files-2.1\ab77b556b2d53a89ee3864c2a486eb97\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\RidwanHidayat\.gradle\caches\transforms-2\files-2.1\ab77b556b2d53a89ee3864c2a486eb97\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\RidwanHidayat\Documents\TUBES_AKB\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\RidwanHidayat\Documents\TUBES_AKB\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\RidwanHidayat\Documents\TUBES_AKB\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\RidwanHidayat\Documents\TUBES_AKB\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\RidwanHidayat\Documents\TUBES_AKB\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\RidwanHidayat\Documents\TUBES_AKB\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\RidwanHidayat\Documents\TUBES_AKB\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\RidwanHidayat\Documents\TUBES_AKB\app\src\main\AndroidManifest.xml
